@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+
+<section class="flex flex-col w-full h-full justify-center items-center">
+    <h1 class="text-2xl font-bold">Sveltekit + PocketBase. Proyecto Base Login</h1>
+    <p>Este proyecto es una base para iniciar un proyecto con Sveltekit y PocketBase</p>
+</section>
+
